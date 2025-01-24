@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial=scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            width:80%;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        .social-links {
+            margin-top: 20px;
+        }
+        .social-links a {
+            text-decoration:none;
+            color: #337ab7;
+        }
+        .social-links a:hover{
+            color: #235a7c;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>About Me</h1>
+        </div>
+        <p><strong>Name:</strong> Christian Bernard R. Castillo</p>
+        <p><strong>Age:</strong> 22</p>
+        <p><strong>Interest:</strong> Game Developer, Server Owner, Gaming Community</p>
+        <p><strong>About:</strong> I am Christian Bernard R. Castillo, you can call me Ian instead,
+        I am the server owner in Dama del Cerro RP Minecraft server community which is
+        I'm doing game developing and enjoys my part as a Owner of this community.</p>
+        </div>
+    <div class="social-links">
+        <p>My Github:</p>
+        <p><a href="https://github.com/Ianxyt/sampleGIT"
+            target="_blank">Github</a></p>
+    </div>
+</body>
+</html>
